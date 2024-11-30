@@ -86,3 +86,6 @@
         }
     </style>
 </head>
+article img {
+  float: right;
+}
