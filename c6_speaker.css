@@ -117,7 +117,9 @@ aside img {
 footer {
 	background-color: #931420;
 	clear: both;
-
+article img {
+  float: right;
+}
 }
 footer p {
 	text-align: center;
