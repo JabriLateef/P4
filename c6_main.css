@@ -117,3 +117,6 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
+article img {
+  float: right;
+}
