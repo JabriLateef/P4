@@ -22,13 +22,13 @@ header {
 	padding: 1.5em 0 2em 0;
 	border-bottom: 3px solid #931420;
 		background-image: -moz-linear-gradient(
-	    30deg, #931420 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #000000 100%);
+	    30deg, #931420 0%, #931420 30%, white 50%, #f6bb73 80%, #000000 100%);
 	background-image: -webkit-linear-gradient(
-	    30deg, #931420 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #000000 100%);
+	    30deg, #931420 0%, #931420 30%, white 50%, #f6bb73 80%, #000000 100%);
 	background-image: -o-linear-gradient(
-	    30deg, #931420 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #000000 100%);
+	    30deg, #931420 0%, #931420 30%, white 50%, #f6bb73 80%, #000000 100%);
 	background-image: linear-gradient(
-	    30deg, #931420 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #000000 100%);
+	    30deg, #931420 0%, #931420 30%, white 50%, #f6bb73 80%, #000000 100%);
 }
 header h2 {
 	font-size: 175%;
