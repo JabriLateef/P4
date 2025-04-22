@@ -4,7 +4,8 @@
 	padding: 0;
 }
 html {
-		background-color: rgb(65, 55, 55);
+		background-color: rgb(255, 0, 0);
+		opacity: 0.6;
 }
 body {
 	font-family: Arial, Helvetica, sans-serif;
